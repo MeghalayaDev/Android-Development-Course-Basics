@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World With Toast</string>
+    <string name="this_is_a_text_nhello_paragraph">This is a text \nHello paragraph</string>
+    <string name="this_is_another_paragraph">This is another paragraph</string>
+</resources>
