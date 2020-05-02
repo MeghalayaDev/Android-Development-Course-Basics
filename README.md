@@ -10,6 +10,10 @@ Apps:
 4. Displaying Web Pages 
 5. The Survey App
 
+## Our Video Playlist:
+
+https://www.youtube.com/playlist?list=PLgrQMwPlwLjEDec4EWThRUsL1UrJ6qQ4c
+
 ## References 
 
 Google Course 
